@@ -107,6 +107,8 @@ Quests.md        break-it challenges
 
 The page has to be served over http. Opening `index.html` directly as a file won't work, because browsers block module scripts on `file://`.
 
+my name is gamer
+
 ## Credits
 
 The concepts and the pasta sauce analogy come from chapters 1 and 2 of [*Grokking Continuous Delivery*](https://www.manning.com/books/grokking-continuous-delivery) by Christie Wilson (Manning, 2022). The example app was written by Ivan ([local-sailor](https://github.com/local-sailor)) and ported from [local-sailor/ci-cd2_practice](https://github.com/local-sailor/ci-cd2_practice).
