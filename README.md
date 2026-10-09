@@ -107,7 +107,7 @@ Quests.md        break-it challenges
 
 The page has to be served over http. Opening `index.html` directly as a file won't work, because browsers block module scripts on `file://`.
 
-my name is gamer
+my name is gamer and im learing cid
 
 ## Credits
 
